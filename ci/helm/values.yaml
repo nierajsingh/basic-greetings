@@ -1,0 +1,7 @@
+# Default values for chatter.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+app_name: basic-greetings
+docker_image: nsinghpivotal/basic-greetings:latest
+replicas: 1
